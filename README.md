@@ -9,7 +9,7 @@ This project focuses on manual functional testing of the [nopCommerce Demo Websi
 - **Testing Type:** Manual Functional Testing
 - **Browser:** Google Chrome
 - **Operating System:** Windows
-- **Test Management & Defect Tracking::** Google Sheets
+- **Test Management & Defect Tracking:** Google Sheets
 
 ## Modules Tested
 - **Registration:** Form validation, duplicate email, password validation, and user details.
