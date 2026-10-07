@@ -12,10 +12,10 @@ This project focuses on manual functional testing of the [nopCommerce Demo Websi
 - **Test Management & Defect Tracking:** Google Sheets
 
 ## Modules Tested
-- **Registration:**
-- **Login:**
-- **Shopping Cart:**
-- **Wishlist:**
+- **Registration**
+- **Login**
+- **Shopping Cart**
+- **Wishlist**
 
 ## Testing Deliverables (Direct links)
 - Test Plan - https://docs.google.com/document/d/1a82OX7GrHJjQ-LbNjULzF_AY2-P0Bf22ndjDyRgzwFo/edit?usp=sharing
