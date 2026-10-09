@@ -7,7 +7,7 @@ This project focuses on manual functional testing of the nopCommerce Demo Websit
 - **Application:** nopCommerce Demo Website
 - **Website URL:** https://demo.nopcommerce.com/
 - **Testing Type:** Manual Functional Testing
-- **Browser:** Google Chrome and Brave Browser
+- **Browser:** Google Chrome and Brave
 - **Operating System:** Windows
 - **Device Type:** Laptop
 - **Tool used for Test Documentation & Defect Tracking:** Google Sheets
