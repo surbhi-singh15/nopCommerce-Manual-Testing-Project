@@ -22,4 +22,5 @@ This project focuses on manual functional testing of the nopCommerce Demo Websit
 - Test Plan - https://docs.google.com/document/d/1a82OX7GrHJjQ-LbNjULzF_AY2-P0Bf22ndjDyRgzwFo/edit?usp=sharing
 - Complete Test Documentation - https://docs.google.com/spreadsheets/d/1JFDSWZh-an2JQ77pZIdw3s_KDVSSQQG8bkLDz3igrjQ/edit?usp=sharing
 
-**Note:** This is a self-directed portfolio project using a publicly available demo website. It is not affiliated with nopCommerce.
+
+**Note:** This is a personal project conducted on an open source website; not affiliated with nopCommerce.
