@@ -1,7 +1,7 @@
 # nopCommerce Manual Testing Project
 
 ## Project Overview
-nopCommerce is a free, open-source e-commerce platform. It provides free public Demo Stores(including both user frontend and admin frontend). For this project, I have tested the user frontend.
+nopCommerce is a free, open-source e-commerce platform. It provides free public Demo Stores(including both customer frontend and admin frontend). For this project, I have tested the customer frontend.
 
 ## Application Details
 - **Application:** nopCommerce Demo Website
