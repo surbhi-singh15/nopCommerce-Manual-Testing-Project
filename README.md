@@ -1,7 +1,7 @@
 # nopCommerce Manual Testing Project
 
 ## Project Overview
-nopCommerce is a free, open-source e-commerce platform. It provides free public Demo Stores(with frontend including both user front and admin front). For this project, I have tested the user front.
+nopCommerce is a free, open-source e-commerce platform. It provides free public Demo Stores(including both user frontend and admin frontend). For this project, I have tested the user frontend.
 
 ## Application Details
 - **Application:** nopCommerce Demo Website
@@ -10,7 +10,7 @@ nopCommerce is a free, open-source e-commerce platform. It provides free public 
 - **Operating System:** Windows
 - **Device Type:** Laptop
 - **Browser:** Google Chrome and Brave
-- **Tool used for Test Documentation & Defect Tracking:** Google Sheets
+- **Tool used for Defect Tracking:** Google Sheets
 
 ## Modules Tested
 - Registration
